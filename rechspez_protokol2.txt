@@ -1,0 +1,79 @@
+[OK] Datei korrekt geladen: rechspez.ini
+[OK] Überspringen der Nicht-RECHNER-Bedienplatz
+[OK] Überspringen der Nicht-RECHNER-MasterSlaveBpls
+[OK] Überspringen der Nicht-RECHNER-Allgemein
+[OK] in RECHNER_250 gibt es keine BildRefRechner
+[WARN] Kein KFScluessel in RECHNER_250
+[WARN] Kein KFSchluessel in RECHNER_250
+[OK] in RECHNER_251 gibt es keine BildRefRechner
+[WARN] Kein KFScluessel in RECHNER_251
+[WARN] Kein KFSchluessel in RECHNER_251
+[OK] in RECHNER_252 gibt es keine BildRefRechner
+[WARN] Kein KFScluessel in RECHNER_252
+[WARN] Kein KFSchluessel in RECHNER_252
+[OK] Alle BildRefRechner sind in der RECHNER_211 vorhanden und kontinuierlich
+[OK] alle KFScluessel ist da in RECHNER_211
+[OK] KFSchluessel sind in aufsteigender Reihfolge in RECHNER_211
+[OK] Alle BildRefRechner sind in der RECHNER_212 vorhanden und kontinuierlich
+[OK] alle KFScluessel ist da in RECHNER_212
+[OK] KFSchluessel sind in aufsteigender Reihfolge in RECHNER_212
+[OK] Alle BildRefRechner sind in der RECHNER_213 vorhanden und kontinuierlich
+[OK] alle KFScluessel ist da in RECHNER_213
+[OK] KFSchluessel sind in aufsteigender Reihfolge in RECHNER_213
+[OK] Alle BildRefRechner sind in der RECHNER_214 vorhanden und kontinuierlich
+[OK] alle KFScluessel ist da in RECHNER_214
+[OK] KFSchluessel sind in aufsteigender Reihfolge in RECHNER_214
+[OK] Alle BildRefRechner sind in der RECHNER_221 vorhanden und kontinuierlich
+[OK] alle KFScluessel ist da in RECHNER_221
+[OK] KFSchluessel sind in aufsteigender Reihfolge in RECHNER_221
+[OK] Alle BildRefRechner sind in der RECHNER_222 vorhanden und kontinuierlich
+[OK] alle KFScluessel ist da in RECHNER_222
+[OK] KFSchluessel sind in aufsteigender Reihfolge in RECHNER_222
+[OK] Alle BildRefRechner sind in der RECHNER_223 vorhanden und kontinuierlich
+[OK] alle KFScluessel ist da in RECHNER_223
+[OK] KFSchluessel sind in aufsteigender Reihfolge in RECHNER_223
+[OK] Alle BildRefRechner sind in der RECHNER_224 vorhanden und kontinuierlich
+[OK] alle KFScluessel ist da in RECHNER_224
+[OK] KFSchluessel sind in aufsteigender Reihfolge in RECHNER_224
+[OK] Alle BildRefRechner sind in der RECHNER_225 vorhanden und kontinuierlich
+[OK] alle KFScluessel ist da in RECHNER_225
+[OK] KFSchluessel sind in aufsteigender Reihfolge in RECHNER_225
+[OK] Alle BildRefRechner sind in der RECHNER_226 vorhanden und kontinuierlich
+[OK] alle KFScluessel ist da in RECHNER_226
+[OK] KFSchluessel sind in aufsteigender Reihfolge in RECHNER_226
+[OK] Alle BildRefRechner sind in der RECHNER_227 vorhanden und kontinuierlich
+[OK] alle KFScluessel ist da in RECHNER_227
+[OK] KFSchluessel sind in aufsteigender Reihfolge in RECHNER_227
+[OK] Alle BildRefRechner sind in der RECHNER_228 vorhanden und kontinuierlich
+[OK] alle KFScluessel ist da in RECHNER_228
+[OK] KFSchluessel sind in aufsteigender Reihfolge in RECHNER_228
+[OK] Alle BildRefRechner sind in der RECHNER_216 vorhanden und kontinuierlich
+[OK] alle KFScluessel ist da in RECHNER_216
+[OK] KFSchluessel sind in aufsteigender Reihfolge in RECHNER_216
+[OK] Alle BildRefRechner sind in der RECHNER_217 vorhanden und kontinuierlich
+[OK] alle KFScluessel ist da in RECHNER_217
+[OK] KFSchluessel sind in aufsteigender Reihfolge in RECHNER_217
+[OK] Alle BildRefRechner sind in der RECHNER_218 vorhanden und kontinuierlich
+[OK] alle KFScluessel ist da in RECHNER_218
+[OK] KFSchluessel sind in aufsteigender Reihfolge in RECHNER_218
+[OK] Alle BildRefRechner sind in der RECHNER_231 vorhanden und kontinuierlich
+[OK] alle KFScluessel ist da in RECHNER_231
+[OK] KFSchluessel sind in aufsteigender Reihfolge in RECHNER_231
+[OK] Alle BildRefRechner sind in der RECHNER_232 vorhanden und kontinuierlich
+[OK] alle KFScluessel ist da in RECHNER_232
+[OK] KFSchluessel sind in aufsteigender Reihfolge in RECHNER_232
+[OK] Alle BildRefRechner sind in der RECHNER_233 vorhanden und kontinuierlich
+[OK] alle KFScluessel ist da in RECHNER_233
+[OK] KFSchluessel sind in aufsteigender Reihfolge in RECHNER_233
+[OK] Alle BildRefRechner sind in der RECHNER_235 vorhanden und kontinuierlich
+[OK] alle KFScluessel ist da in RECHNER_235
+[OK] KFSchluessel sind in aufsteigender Reihfolge in RECHNER_235
+[OK] Alle BildRefRechner sind in der RECHNER_236 vorhanden und kontinuierlich
+[OK] alle KFScluessel ist da in RECHNER_236
+[OK] KFSchluessel sind in aufsteigender Reihfolge in RECHNER_236
+[OK] Alle BildRefRechner sind in der RECHNER_237 vorhanden und kontinuierlich
+[OK] alle KFScluessel ist da in RECHNER_237
+[OK] KFSchluessel sind in aufsteigender Reihfolge in RECHNER_237
+[OK] Alle BildRefRechner sind in der RECHNER_238 vorhanden und kontinuierlich
+[OK] alle KFScluessel ist da in RECHNER_238
+[OK] KFSchluessel sind in aufsteigender Reihfolge in RECHNER_238
